@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e6294bd7ce2d8314aa55a359d26be9e6
+timeCreated: 1486633413
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Gnome: {fileID: 1161531247946142, guid: 134c71a9652169b43944da0632775826, type: 2}
+  - pl2: {fileID: 1161531247946142, guid: 134c71a9652169b43944da0632775826, type: 2}
+  - scheinGut: {fileID: 1061674962225522, guid: 8127f0827384e4e4b86fb870c5740d3e,
+      type: 2}
+  - scheinBad: {fileID: 1061674962225522, guid: 8127f0827384e4e4b86fb870c5740d3e,
+      type: 2}
+  - controller: {fileID: 9100000, guid: 6fa448ee3a2f54d2fa007e1bd02bcc17, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
